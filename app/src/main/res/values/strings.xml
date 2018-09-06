@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BestBody</string>
+    <string name="btn_training">Просмотр тренировок</string>
+    <string name="btn_my_training">Мои тренировки</string>
+    <string name="btn_calculate">Калькультор</string>
+    <string name="btn_people_famous">Цитаты великих спортсменов</string>
+    <string name="btn_Set_of_masses">Набор массы</string>
+    <string name="btn_losing_weight">Для похудения</string>
+    <string name="btn_strong_training">Тренировка силы</string>
+    <string name="calc_water">Калькулятор гидрации</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
